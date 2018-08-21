@@ -1,8 +1,8 @@
----------------Ejemplo------------------
+﻿---------------Ejemplo------------------
 Kleiman, Yani (xxxxxx) -> Usuario Github: yanikleiman
 ----------------------------------------
 
-Amorin Delprato, Denis Damián (145992) ->
+Amorin Delprato, Denis Damián (145992) -> denisamorin
 Baccino Cabot, Diego Gabriel (212995) ->
 Balduccio Méndez, Bruno Ricardo (157967) ->
 Benedictti Techera, Luis Fernando (92560) ->
